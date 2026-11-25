@@ -11,6 +11,7 @@ The following are the past & upcoming workshops for this academic year:
 | 14/10/26 | GIAG: Intro to ML | Brief introduction to the ML concepts in a no code environment | Alvia Zehra |
 | 28/11/26 | Seaborn data visualisation with python | How to use seaborn library in python to plot data | Anna Mityukova |
 | 11/11/26 | Intro to SQL | Solve detective cases using SQL!  | Johann D Costa | 
+| 25/11/26 | Exploratory Data Analysis | Introduction to the exploratory Data Analysis | Johann D Costa | 
 
 The resources for these will be published in this repository in their corresponding folders, and are there for you to access during the sessions, or refer back to later on!
 
